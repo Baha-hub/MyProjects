@@ -1,4 +1,4 @@
-# MyProjects
+# My Projects
 
 Buradan yaptığım bazı projelerin linklerine ulaşabilirsiniz.
 

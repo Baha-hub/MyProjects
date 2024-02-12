@@ -2,7 +2,7 @@
 
 Buradan yaptığım bazı projelerin linklerine ulaşabilirsiniz.
 
-Here you can find the links of some of the projects i have done.
+Here you can find the links of some of the projects i have made.
 
 Zombie Shooter App store and Play store link : 
 https://apps.apple.com/tr/app/zombie-shooter/id1623349804?l=tr
